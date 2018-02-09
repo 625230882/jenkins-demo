@@ -13,6 +13,7 @@ public class DemoApplicationTests {
 	@Test
 	public void contextLoads() {
 		Assert.assertTrue(true);
+		Assert.assertEquals(1, 1);
 	}
 
 }
