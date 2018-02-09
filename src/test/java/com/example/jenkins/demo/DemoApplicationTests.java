@@ -15,6 +15,7 @@ public class DemoApplicationTests {
 		Assert.assertTrue(true);
 		Assert.assertEquals(1, 1);
 		Assert.assertTrue(true);
+		Assert.assertTrue(true);
 	}
 
 }
