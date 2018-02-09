@@ -14,6 +14,7 @@ public class DemoApplicationTests {
 	public void contextLoads() {
 		Assert.assertTrue(true);
 		Assert.assertEquals(1, 1);
+		Assert.assertTrue(true);
 	}
 
 }
