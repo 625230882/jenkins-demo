@@ -17,6 +17,7 @@ public class DemoApplicationTests {
 		Assert.assertTrue(true);
 		Assert.assertTrue(true);
 		Assert.assertTrue(true);
+		Assert.assertTrue(true);
 	}
 
 }
