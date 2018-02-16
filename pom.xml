@@ -52,7 +52,7 @@
 				<configuration>
 					<imageName>${docker.image.prefix}/${project.artifactId}</imageName>
 					<dockerDirectory>src/main/docker</dockerDirectory>
-					<dockerHost>tcp://localhost:1234</dockerHost>
+					<dockerHost>tcp://localhost:2375</dockerHost>
 					<resources>
 						<resource>
 							<targetPath>/</targetPath>
