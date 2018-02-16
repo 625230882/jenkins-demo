@@ -52,6 +52,7 @@
 				<configuration>
 					<imageName>${docker.image.prefix}/${project.artifactId}</imageName>
 					<dockerDirectory>src/main/docker</dockerDirectory>
+					<dockerHost>unix:///private/var/tmp/docker.sock</dockerHost>
 					<resources>
 						<resource>
 							<targetPath>/</targetPath>
